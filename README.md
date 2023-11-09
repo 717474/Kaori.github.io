@@ -1,2 +1,2 @@
 # Kaori.github.io
-My post. A student from Huazhong University of Science and Technology. LAB's website is https://haivlab.wixsite.com/home.
+Hi, this is GuiJQ. I'll document my learning notes in this blog. I'm studenting at Huazhong University of Science and Technology. The LAB's website is https://haivlab.wixsite.com/home.
